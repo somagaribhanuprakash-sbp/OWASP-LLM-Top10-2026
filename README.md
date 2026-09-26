@@ -636,9 +636,7 @@ The report includes technical explanations, test results, screenshots, defensive
 
 B.Tech Computer Science and Engineering
 
-Joginpally B.R. Engineering College Autonomous
-
-JNTUH
+Joginpally B.R. Engineering College 
 
 ---
 
